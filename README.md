@@ -1,6 +1,7 @@
 Project#3: DOCKER
 
 Python script does the following:
+
     a. Lists name of all the text file at location: /home/data
     
     b. Reads the two text files and count total number of words in each text files
